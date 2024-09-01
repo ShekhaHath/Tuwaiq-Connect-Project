@@ -16,5 +16,14 @@ Tuwaiq Connect
 
 - UML link : https://drive.google.com/file/d/1uFYY7BKs6VOZmIbOaefieGs3E6TWbV71/view
 
+## Students Login page :
+![LOGIN](https://github.com/user-attachments/assets/478477b8-4636-44dc-b295-9262c1d5f6f3)
 
+ 
+ ## Students Registration Page:
+![Registration](https://github.com/user-attachments/assets/d198a44a-f76c-4f3e-8cce-a688e66a409d)
+
+## Bootcamp page :
+From the perspective of the organization, they can view students' grades in a specific bootcamp, access their profiles, see their projects, and view their contact information.
+![Students](https://github.com/user-attachments/assets/48a13943-d8a2-4362-bc87-70a6ad9151c2)
 
