@@ -25,5 +25,5 @@ Tuwaiq Connect
 
 ## Bootcamp page :
 From the perspective of the organization, they can view students' grades in a specific bootcamp, access their profiles, see their projects, and view their contact information.
-![Students](https://github.com/user-attachments/assets/48a13943-d8a2-4362-bc87-70a6ad9151c2)
+![bootcamp_students](https://github.com/user-attachments/assets/b1c2cf7a-cc87-47e4-9e55-6c52a8d15f14)
 
